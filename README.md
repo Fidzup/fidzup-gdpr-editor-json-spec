@@ -108,6 +108,7 @@ example:
   ...
 
 }
+```
 
 ## Features
 
@@ -128,6 +129,7 @@ example:
     }
   ]
 }
+```
 
 # Localization
 
